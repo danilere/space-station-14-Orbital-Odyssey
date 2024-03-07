@@ -8,7 +8,7 @@
   },
   "states": [
     {
-      "name": "running",
+      "name": "bobxeno2",
       "directions": 4
     },
     {
@@ -18,7 +18,7 @@
       "name": "crit"
     },
     {
-      "name": "dead"
+      "name": "deadk"
     }
   ]
 }
